@@ -1,6 +1,5 @@
-This is a partial disassembly of Oracle of Seasons. It's meant to assemble correctly and
-give me a place to work on seasons-specific stuff. However, eventually seasons-specific
-stuff will be moved into the ages-disasm repository (which will then be renamed
-oracles-disasm?).
+This repository is deprecated. See
+[oracles-disasm](https://github.com/drenn1/oracles-disasm) instead.
 
-This depends heavily on files from ages-disasm.
+This was a partial disassembly of Oracle of Seasons, where I worked on seasons-specific
+stuff before it was merged into the oracles-disasm repository (formerly ages-disasm).
